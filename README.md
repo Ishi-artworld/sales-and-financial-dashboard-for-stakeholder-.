@@ -87,8 +87,8 @@ Incorporate forecasting (Sales/Profit projections)
 Row-level security (RLS) for restricted access
 
 👤 Author
+Ishika mishra
 
-Developed by Abir Ghosh to demonstrate financial analytics & storytelling in Power BI.
 <img width="989" height="550" alt="image" src="https://github.com/user-attachments/assets/6ae1989a-80e6-4207-9c23-7feb3556153e" />
 <img width="745" height="527" alt="image" src="https://github.com/user-attachments/assets/3f5adf38-5db3-4642-8e61-b434b14496be" />
 <img width="670" height="476" alt="image" src="https://github.com/user-attachments/assets/c148a7bf-1f12-4626-b699-a0bc1b3639fd" />
